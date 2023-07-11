@@ -31,11 +31,11 @@ To use Rep Counter:
 
 Rep Counter can be customized according to specific requirements:
 
-1. Modify the rep counting algorithm in `rep_counter.py` to suit different exercises.
+1. Modify the rep counting algorithm in `rep_counter.ipynb` to suit different exercises.
 
-2. Adjust the pose estimation parameters in `rep_counter.py` to optimize accuracy or performance.
+2. Adjust the pose estimation parameters in `rep_counter.ipynb` to optimize accuracy or performance.
 
-3. Customize the rendering of pose estimation results using OpenCV in `rep_counter.py`.
+3. Customize the rendering of pose estimation results using OpenCV in `rep_counter.ipynb`.
 
 Acknowledgments:
 
